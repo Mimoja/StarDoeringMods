@@ -20,6 +20,7 @@
       githubAsset: "EvenBetterArtisanGoodIcons",
       url: "https://github.com/chsiao58/EvenBetterArtisanGoodIcons/releases",
       enabled: true,
+      note: "my own note",
     },
     {
       id: "Pathoschild.ContentPatcher",
