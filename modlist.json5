@@ -58,5 +58,13 @@
       note: "Chosen over the original 'Better Sprinklers' (Speeder.BetterSprinklers, Nexus 41) which is broken since 1.6 and unmaintained since 2019. 2.18.1 (2024-11) is the 1.6-compatible continuation with the same features. A newer third fork, 'Better Sprinklers Mod' (TFZC.BetterSprinklersMod, Nexus 39226), exists but is young.",
       enabled: true,
     },
+    {
+      id: "Rakiin.AutomaticGates",
+      name: "Automatic Gates",
+      nexus: 3109,
+      url: "https://www.nexusmods.com/stardewvalley/mods/3109",
+      note: "2.5.5 (2026-03), actively maintained, no GitHub releases. Alternatives doing the same thing: 'AutoGate' (AutoGate, Nexus 820) and 'Smart Gates' (Thielquis.SmartGates, Nexus 44116, GitHub Thielquis/StardewValley-SmartGates). Install only one gate mod.",
+      enabled: true,
+    },
   ],
 }
