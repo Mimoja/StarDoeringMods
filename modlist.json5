@@ -1,0 +1,2 @@
+// written by smoke-e2e
+{ name: "e2e", smapi: "latest", mods: [] }

@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "groupId": "d65d01cf-3e55-4e2f-a495-b9ca7985b7da",
+  "revision": 1,
+  "updatedAt": 1788004145481,
+  "updatedBy": {
+    "id": "e2e-device",
+    "name": "Mac.fritz.box (e2e)",
+    "platform": "darwin"
+  },
+  "smapiVersion": "4.5.2",
+  "gameVersion": "1.6.15.24356",
+  "files": [],
+  "mods": []
+}
