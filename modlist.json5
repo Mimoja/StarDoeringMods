@@ -66,5 +66,12 @@
       note: "2.5.5 (2026-03), actively maintained, no GitHub releases. Alternatives doing the same thing: 'AutoGate' (AutoGate, Nexus 820) and 'Smart Gates' (Thielquis.SmartGates, Nexus 44116, GitHub Thielquis/StardewValley-SmartGates). Install only one gate mod.",
       enabled: true,
     },
+    {
+      id: "AaronTaggart.AutoAnimalDoors",
+      name: "Auto Animal Doors",
+      nexus: 1019,
+      url: "https://www.nexusmods.com/stardewvalley/mods/1019",
+      enabled: true,
+    },
   ],
 }
