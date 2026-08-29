@@ -48,5 +48,15 @@
       note: "2024.4.16 – the only 'Unlimited Players' mod; smapi.io lists it as Ok for 1.6. Only the host needs it, but harmless on clients. GitHub releases (Armitxes/StardewValley_UnlimitedPlayers) contain no zip, so Nexus is the download source.",
       enabled: true,
     },
+    {
+      id: "com.CodesThings.BetterSprinklersPlus",
+      name: "Better Sprinklers Plus",
+      nexus: 17767,
+      github: "jamescodesthings/smapi-better-sprinklers",
+      githubAsset: "BetterSprinklersPlus",
+      url: "https://www.nexusmods.com/stardewvalley/mods/17767",
+      note: "Chosen over the original 'Better Sprinklers' (Speeder.BetterSprinklers, Nexus 41) which is broken since 1.6 and unmaintained since 2019. 2.18.1 (2024-11) is the 1.6-compatible continuation with the same features. A newer third fork, 'Better Sprinklers Mod' (TFZC.BetterSprinklersMod, Nexus 39226), exists but is young.",
+      enabled: true,
+    },
   ],
 }
