@@ -103,5 +103,13 @@
       url: "https://www.nexusmods.com/stardewvalley/mods/314",
       enabled: true,
     },
+    {
+      id: "mishmaash.PauseInMultiplayer",
+      name: "Pause Time in Multiplayer Revived",
+      enabled: true,
+      nexus: 21327,
+      github: "mishahawthorn/PauseInMultiplayer",
+      url: "https://www.nexusmods.com/stardewvalley/mods/21327",
+    },
   ],
 }
