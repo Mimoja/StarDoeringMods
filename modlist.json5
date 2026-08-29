@@ -31,5 +31,14 @@
       note: "Framework for content packs (2.9.1). Nothing in this list needs it yet, but almost every visual/content mod does.",
       enabled: true,
     },
+    {
+      id: "spacechase0.GenericModConfigMenu",
+      name: "Generic Mod Config Menu",
+      nexus: 5098,
+      url: "https://www.nexusmods.com/stardewvalley/mods/5098",
+      optional: true,
+      note: "Optional dependency of Automate, Lookup Anything, NPC Map Locations, Better Sprinklers Plus, Auto Animal Doors and others – adds an in-game settings UI for them. Nothing hard-requires it.",
+      enabled: true,
+    },
   ],
 }
