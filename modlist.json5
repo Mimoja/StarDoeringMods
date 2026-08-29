@@ -40,5 +40,13 @@
       note: "Optional dependency of Automate, Lookup Anything, NPC Map Locations, Better Sprinklers Plus, Auto Animal Doors and others – adds an in-game settings UI for them. Nothing hard-requires it.",
       enabled: true,
     },
+    {
+      id: "Armitxes.UnlimitedPlayers",
+      name: "Unlimited Players",
+      nexus: 2213,
+      url: "https://www.nexusmods.com/stardewvalley/mods/2213",
+      note: "2024.4.16 – the only 'Unlimited Players' mod; smapi.io lists it as Ok for 1.6. Only the host needs it, but harmless on clients. GitHub releases (Armitxes/StardewValley_UnlimitedPlayers) contain no zip, so Nexus is the download source.",
+      enabled: true,
+    },
   ],
 }
