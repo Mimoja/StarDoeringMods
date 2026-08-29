@@ -11,7 +11,7 @@
       name: "Automate",
       nexus: 1063,
       url: "https://www.nexusmods.com/stardewvalley/mods/1063",
-      enabled: false,
+      enabled: true,
     },
     {
       id: "haze1nuts.evenbetterartisangoodicons",
@@ -20,7 +20,6 @@
       githubAsset: "EvenBetterArtisanGoodIcons",
       url: "https://github.com/chsiao58/EvenBetterArtisanGoodIcons/releases",
       enabled: true,
-      note: "my own note",
     },
     {
       id: "Pathoschild.ContentPatcher",
