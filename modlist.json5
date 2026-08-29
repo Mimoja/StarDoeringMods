@@ -11,7 +11,6 @@
       name: "Automate",
       nexus: 1063,
       url: "https://www.nexusmods.com/stardewvalley/mods/1063",
-      note: "2.6.1 (2026-03). Pathoschild publishes on Nexus/ModDrop/CurseForge only; the GitHub repo has no release assets.",
       enabled: false,
     },
     {
@@ -20,7 +19,6 @@
       github: "chsiao58/EvenBetterArtisanGoodIcons",
       githubAsset: "EvenBetterArtisanGoodIcons",
       url: "https://github.com/chsiao58/EvenBetterArtisanGoodIcons/releases",
-      note: "my own note",
       enabled: true,
     },
     {
@@ -28,7 +26,6 @@
       name: "Content Patcher",
       nexus: 1915,
       url: "https://www.nexusmods.com/stardewvalley/mods/1915",
-      note: "Framework for content packs (2.9.1). Nothing in this list needs it yet, but almost every visual/content mod does.",
       enabled: true,
     },
     {
@@ -37,7 +34,6 @@
       nexus: 5098,
       url: "https://www.nexusmods.com/stardewvalley/mods/5098",
       optional: true,
-      note: "Optional dependency of Automate, Lookup Anything, NPC Map Locations, Better Sprinklers Plus, Auto Animal Doors and others – adds an in-game settings UI for them. Nothing hard-requires it.",
       enabled: true,
     },
     {
@@ -45,7 +41,6 @@
       name: "Unlimited Players",
       nexus: 2213,
       url: "https://www.nexusmods.com/stardewvalley/mods/2213",
-      note: "2024.4.16 – the only 'Unlimited Players' mod; smapi.io lists it as Ok for 1.6. Only the host needs it, but harmless on clients. GitHub releases (Armitxes/StardewValley_UnlimitedPlayers) contain no zip, so Nexus is the download source.",
       enabled: true,
     },
     {
@@ -55,7 +50,6 @@
       github: "jamescodesthings/smapi-better-sprinklers",
       githubAsset: "BetterSprinklersPlus",
       url: "https://www.nexusmods.com/stardewvalley/mods/17767",
-      note: "Chosen over the original 'Better Sprinklers' (Speeder.BetterSprinklers, Nexus 41) which is broken since 1.6 and unmaintained since 2019. 2.18.1 (2024-11) is the 1.6-compatible continuation with the same features. A newer third fork, 'Better Sprinklers Mod' (TFZC.BetterSprinklersMod, Nexus 39226), exists but is young.",
       enabled: true,
     },
     {
@@ -63,7 +57,6 @@
       name: "Automatic Gates",
       nexus: 3109,
       url: "https://www.nexusmods.com/stardewvalley/mods/3109",
-      note: "2.5.5 (2026-03), actively maintained, no GitHub releases. Alternatives doing the same thing: 'AutoGate' (AutoGate, Nexus 820) and 'Smart Gates' (Thielquis.SmartGates, Nexus 44116, GitHub Thielquis/StardewValley-SmartGates). Install only one gate mod.",
       enabled: true,
     },
     {
@@ -71,6 +64,43 @@
       name: "Auto Animal Doors",
       nexus: 1019,
       url: "https://www.nexusmods.com/stardewvalley/mods/1019",
+      enabled: true,
+    },
+    {
+      id: "TheFluffyRobot.No",
+      name: "No Friendship Decay - Reborn",
+      nexus: 22922,
+      url: "https://www.nexusmods.com/stardewvalley/mods/22922",
+      enabled: true,
+    },
+    {
+      id: "Bouhm.NPCMapLocations",
+      name: "NPC Map Locations",
+      nexus: 239,
+      url: "https://www.nexusmods.com/stardewvalley/mods/239",
+      enabled: true,
+    },
+    {
+      id: "Pathoschild.LookupAnything",
+      name: "Lookup Anything",
+      nexus: 541,
+      url: "https://www.nexusmods.com/stardewvalley/mods/541",
+      enabled: true,
+    },
+    {
+      id: "Annosz.UiInfoSuite2",
+      name: "UI Info Suite 2",
+      nexus: 7098,
+      github: "Annosz/UIInfoSuite2",
+      githubAsset: "UIInfoSuite2",
+      url: "https://www.nexusmods.com/stardewvalley/mods/7098",
+      enabled: true,
+    },
+    {
+      id: "SimpleCropLabel",
+      name: "Simple Crop Label",
+      nexus: 314,
+      url: "https://www.nexusmods.com/stardewvalley/mods/314",
       enabled: true,
     },
   ],
