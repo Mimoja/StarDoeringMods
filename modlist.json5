@@ -1,2 +1,27 @@
-// written by smoke-e2e
-{ name: "e2e", smapi: "latest", mods: [] }
+// modlist.json5 – updated by StarDöring on 2026-08-29
+// JSON5: comments and trailing commas are fine. "id" is the SMAPI UniqueID and the only required field.
+// Optional per mod: name, nexus: <id>, github: "owner/repo", githubAsset: "<zip name part>", url, version ("latest" or a minimum),
+// optional: true (not needed on every device), enabled: false (installed but switched off), note.
+{
+  name: "e2e",
+  smapi: "latest",
+  mods: [
+    {
+      id: "Pathoschild.Automate",
+      name: "Automate",
+      nexus: 1063,
+      url: "https://www.nexusmods.com/stardewvalley/mods/1063",
+      note: "2.6.1 (2026-03). Pathoschild publishes on Nexus/ModDrop/CurseForge only; the GitHub repo has no release assets.",
+      enabled: false,
+    },
+    {
+      id: "haze1nuts.evenbetterartisangoodicons",
+      name: "Even Better Artisan Good Icons",
+      github: "chsiao58/EvenBetterArtisanGoodIcons",
+      githubAsset: "EvenBetterArtisanGoodIcons",
+      url: "https://github.com/chsiao58/EvenBetterArtisanGoodIcons/releases",
+      note: "1.6.6 (2024-05), GitHub-only – there is no Nexus page, so no 'nexus' field. Successor of Cat's 'Better Artisan Good Icons' (Nexus 2080), which smapi.io marks as superseded. Works on vanilla goods without content packs.",
+      enabled: true,
+    },
+  ],
+}
