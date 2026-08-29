@@ -3,7 +3,7 @@
 // Optional per mod: name, nexus: <id>, github: "owner/repo", githubAsset: "<zip name part>", url, version ("latest" or a minimum),
 // optional: true (not needed on every device), enabled: false (installed but switched off), note.
 {
-  name: "e2e",
+  name: "StarDoeringMods",
   smapi: "latest",
   mods: [
     {
