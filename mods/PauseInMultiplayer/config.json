@@ -1,0 +1,18 @@
+{
+  "ShowPauseX": true,
+  "FixSkullTime": true,
+  "DisableSkullShaftFix": false,
+  "LockMonsters": true,
+  "LockEnergy": false,
+  "AnyCutscenePauses": true,
+  "AnyPlayerPauses": false,
+  "IgnoreHostPauseState": false,
+  "FixSkullTimeAnyPlayer": false,
+  "EnableVotePause": true,
+  "VoteAnyPlayer": false,
+  "JoinVoteMatchesHost": true,
+  "VotePauseHotkey": "Pause",
+  "EnablePauseOverride": true,
+  "PauseOverrideHotkey": "Scroll",
+  "DisplayVotePauseMessages": true
+}
